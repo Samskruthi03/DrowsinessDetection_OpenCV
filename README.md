@@ -59,11 +59,6 @@ The system employs several computer vision techniques:
 - Personal Safety: Individual use for long-distance driving
 - Research Applications: Academic studies on driver behavior
 
-## Author
-
-**Samskruthi Joshi**
-- LinkedIn: [linkedin.com/in/joshisamskruthii](https://linkedin.com/in/joshisamskruthii)
-- Email: joshisamskruthii@gmail.com
 
 ## Acknowledgments
 
